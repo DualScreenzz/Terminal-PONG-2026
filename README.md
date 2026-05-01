@@ -1,1 +1,2 @@
 # Terminal-PONG-2026
+This is the 1972 game PONG now playable in your own terminal! This was written in C++, this shows object-oriented programming as well was inputs based on your keyboard in real time and a gameplay loop structure. The game has two players controlling either P1 (red) and P2 (blue) with the W/S keys and the I/K keys respectively. As time goes on in game, the game gradually speeds up, adding a nice bit of difficulty for anyone who is a fan of this classic arcade experience.
